@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tanchishe", "tanchishe.vcxproj", "{5D64D817-1F40-4530-8D37-514461E6774C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Debug|x64.ActiveCfg = Debug|x64
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Debug|x64.Build.0 = Debug|x64
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Debug|x86.Build.0 = Debug|Win32
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Release|x64.ActiveCfg = Release|x64
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Release|x64.Build.0 = Release|x64
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Release|x86.ActiveCfg = Release|Win32
+		{5D64D817-1F40-4530-8D37-514461E6774C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50C4871-0BA8-4134-9EF9-FCBB116CD8F5}
+	EndGlobalSection
+EndGlobal
